@@ -1,5 +1,5 @@
 # Algoritmos
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=YELLOW&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EMDESENVOLVIMENTO&color=YELLOW&style=for-the-badge)
 
 Repositório dedicado ao estudo e prática de **algoritmos **, reunindo conceitos fundamentais, técnicas de resolução de problemas e implementações voltadas para o desenvolvimento do raciocínio lógico e eficiência computacional.
 
