@@ -6,7 +6,7 @@ Repositório dedicado ao estudo e prática de **algoritmos ** , reunindo conceit
 ## Índice
 
 → - [Aulas Básicas de CPP](#Aulas-Básicas-de-CPP)  
-  ↳ - [Lista de Exercicio 01](Lista-01.md)  
+    ↳ - [Lista de Exercicio 01](Lista-01.md)  
 → - [Algoritmos e Pseudocódigo](#Algoritmos-e-Pseudocódigo)  
 → - [Análise de Complexidade](#Análise-de-Complexidade)  
 → - [Notação Big-Oh](#Notação-Big-Oh)  
