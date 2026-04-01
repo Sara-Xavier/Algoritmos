@@ -34,7 +34,7 @@ int main(){
 **Resposta:**
 Os dois últimos exemplos da tabela estão matematicamente incorretos, pelo mesmo motivo. Os resultados seriam 30000000000 e -4199775533, respectivamente. O tipo "int" (inteiro, 32 bits) tem uma limitação, e essa limite foi ultrapassado (overflow).
 
-(d) Pesquise e identifique correções para os resultados incorretos.
+(d) Pesquise e identifique correções para os resultados incorretos. <br>
 **Resposta:**
 A melhor correção seria usar "long long":
 
@@ -70,12 +70,12 @@ int main(){
 }
 ```
 
-(a) Determine e explique qual o tipo de l1 e de l2.
+(a) Determine e explique qual o tipo de l1 e de l2. <br>
 **Resposta:**
 Inteiros. No conjunto dos inteiros, são 32 bits, suportando até o número 2bi (1000000000 - Um bilhão é o máximo que usaremos).
 
 
-(b) Escreva uma função que receba Os 2 (dois) parâmetros e retorne o perímetro. Determine o tipo de dado de retorno da função.
+(b) Escreva uma função que receba Os 2 (dois) parâmetros e retorne o perímetro. Determine o tipo de dado de retorno da função. 
 **Resposta:** 
 
 ```cpp
@@ -97,7 +97,7 @@ int main(){
 }
 ```
 
-(c) Escreva um conjunto com, pelo menos, 5 casos de teste e monte uma tabela.
+(c) Escreva um conjunto com, pelo menos, 5 casos de teste e monte uma tabela. <br>
 **Resposta:**
 
 |    Entrada   |    Entrada   |     Saída    |
