@@ -5,14 +5,14 @@ Repositório dedicado ao estudo e prática de **algoritmos ** , reunindo conceit
 
 ## Índice
 
-→ - [Aulas Básicas de CPP](#Aulas-Básicas-de-CPP) <BR>
-  ↳ - [Lista de Exercicio 01](Lista-01.md) <BR>
-→ - [Algoritmos e Pseudocódigo](#Algoritmos-e-Pseudocódigo) <BR>
-→ - [Análise de Complexidade](#Análise-de-Complexidade) <BR>
-→ - [Notação Big-Oh](#Notação-Big-Oh) <BR>
-→ - [Gerenciamento de Memória](#Gerenciamento-de-Memória) <BR>
-→ - [Força Bruta](#Força-Bruta) <BR>
-→ - [Backtracking](#Backtracking) <BR>
-→ - [Divisão e Conquista](#Divisão-e-Conquista) <BR>
-→ - [Programação Dinâmica](#Programação-Dinâmica) <BR>
-→ - [Método Guloso](#Método-Guloso) <BR>
+→ - [Aulas Básicas de CPP](#Aulas-Básicas-de-CPP)  
+  ↳ - [Lista de Exercicio 01](Lista-01.md)  
+→ - [Algoritmos e Pseudocódigo](#Algoritmos-e-Pseudocódigo)  
+→ - [Análise de Complexidade](#Análise-de-Complexidade)  
+→ - [Notação Big-Oh](#Notação-Big-Oh)  
+→ - [Gerenciamento de Memória](#Gerenciamento-de-Memória)  
+→ - [Força Bruta](#Força-Bruta)  
+→ - [Backtracking](#Backtracking)  
+→ - [Divisão e Conquista](#Divisão-e-Conquista)  
+→ - [Programação Dinâmica](#Programação-Dinâmica)  
+→ - [Método Guloso](#Método-Guloso)  
