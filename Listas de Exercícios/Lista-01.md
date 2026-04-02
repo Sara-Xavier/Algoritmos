@@ -17,7 +17,7 @@ int main(){
 }
 ```
 
-(a) Implemente e compile seu programa. [x]
+(a) Implemente e compile seu programa. [x] <br>
 (b) Execute o programa com os valores a seguir e escreva o resultado: [x]
 
 |      a       |      b       |     Soma     |
@@ -107,3 +107,21 @@ int main(){
 | 1000000000   | 3000000000   | 6294967294   |
 | 1000000000   | 2000000000   | 60000000000  |
 | 3            | 60           | 126          |
+
+3. Escreva um programa que leia um número real, com 5 (cinco) casas decimais, que represente o diâmetro de um círculo e mostre a área a do mesmo, de acordo com a fórmula da área a seguir:
+
+a = πr2
+
+onde r é o raio do círculo. Seu programa deve mostrar o resultado com 5 casas decimais.
+
+```cpp
+#include <iostream>
+#include <iomanip>
+
+int main(){
+    double diametro;
+    std::cin >> diametro;
+    double r = diametro / 2;
+    double area = 3.14159 * r * r;
+    std::cout <<std::fixed << std::setprecision(5) << area << std::end;
+}
