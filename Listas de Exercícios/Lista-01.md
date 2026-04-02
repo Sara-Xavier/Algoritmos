@@ -30,7 +30,7 @@ int main(){
 | 2000000000   | 1000000000   | **-1294967296**  |
 | −1212121212  | −2987654321  | **-1294967296**  |
 
-(c) Explique o motivo de cada um dos resultados obtidos.
+(c) Explique o motivo de cada um dos resultados obtidos. <br>
 **Resposta:**
 Os dois últimos exemplos da tabela estão matematicamente incorretos, pelo mesmo motivo. Os resultados seriam 30000000000 e -4199775533, respectivamente. O tipo "int" (inteiro, 32 bits) tem uma limitação, e essa limite foi ultrapassado (overflow).
 
